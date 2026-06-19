@@ -251,7 +251,6 @@ Social-Media-Analytics-Database
 │   ├── er_diagram.png
 │   ├── top_creators.png
 │   ├── hashtag_analytics.png
-│   ├── follower_ranking.png
 │   └── creator_leaderboard.png
 │
 └── docs
