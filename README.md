@@ -1,4 +1,3 @@
-<img width="1917" height="995" alt="ER-Diagram" src="https://github.com/user-attachments/assets/86fbfd78-c850-457c-afb6-9bc90f33bb75" />
 # 📊 Social Media Analytics Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
