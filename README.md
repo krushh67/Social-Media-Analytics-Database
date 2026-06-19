@@ -1,3 +1,4 @@
+<img width="1917" height="995" alt="ER-Diagram" src="https://github.com/user-attachments/assets/86fbfd78-c850-457c-afb6-9bc90f33bb75" />
 # 📊 Social Media Analytics Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
@@ -32,8 +33,7 @@ A SQL-based analytics system designed to store, manage, and analyze social media
 The database consists of 8 interconnected tables designed to represent a social media platform.
 
 ## ER Diagram
-
-![ER Diagram](screenshots/er_diagram.png)
+<img width="1917" height="995" alt="ER-Diagram" src="https://github.com/user-attachments/assets/4c0f56db-b75a-4319-8c54-bd6046445521" />
 
 ---
 
@@ -162,7 +162,7 @@ The database consists of 8 interconnected tables designed to represent a social 
 
 Identifies users with the highest number of posts.
 
-![Top Creators](screenshots/top_creators.png)
+<img width="1918" height="767" alt="Top Creators" src="https://github.com/user-attachments/assets/b388809c-f5b5-4d51-a395-77ad2b7de19b" />
 
 ---
 
@@ -170,7 +170,7 @@ Identifies users with the highest number of posts.
 
 Displays the most frequently used hashtags.
 
-![Hashtag Analytics](screenshots/hashtag_analytics.png)
+<img width="1903" height="807" alt="Hashtag Analytics" src="https://github.com/user-attachments/assets/ce60584b-3c0c-4158-8872-2be0aafe7bdb" />
 
 ---
 
@@ -178,7 +178,7 @@ Displays the most frequently used hashtags.
 
 Measures creator popularity using engagement metrics.
 
-![Creator Leaderboard](screenshots/creator_leaderboard.png)
+<img width="1918" height="957" alt="Creator Leaderboard" src="https://github.com/user-attachments/assets/83ec50ae-fc0e-473b-8656-31307b97d694" />
 
 ---
 
@@ -203,10 +203,6 @@ Returns engagement metrics for a specific post.
 ### prevent_self_follow
 
 Prevents users from following themselves.
-
-### create_engagement_record
-
-Automatically creates an engagement summary record when a new post is added.
 
 ---
 
