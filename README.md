@@ -248,12 +248,10 @@ Social-Media-Analytics-Database
 │   └── 10_indexes.sql
 │
 ├── screenshots
-│   ├── er_diagram.png
-│   ├── top_creators.png
-│   ├── hashtag_analytics.png
-│   └── creator_leaderboard.png
-│
-└── docs
+    ├── er_diagram.png
+    ├── top_creators.png
+    ├── hashtag_analytics.png
+    └── creator_leaderboard.png
 ```
 
 ---
@@ -287,7 +285,7 @@ Through this project, I gained practical experience in:
 
 # 👨‍💻 Author
 
-**Krushna Patil**
+**Krushnali Patil**
 
 Computer Engineering Student  
 SQL | DBMS | Data Analytics | Software Development
